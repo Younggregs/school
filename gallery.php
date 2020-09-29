@@ -94,12 +94,11 @@
 			<div class="container">
 				<div class="row">
                     <div class="col-xs-10 col-md-5">
-						<div id="fh5co-logo"><a href="index.html"><img src="images/csj-logo.jpeg" width="50" height="50">St. Joseph's College Vom<span></span></a></div>
+						<div id="fh5co-logo"><a href="index.php"><img src="images/csj-logo.jpeg" width="50" height="50">St. Joseph's College Vom<span></span></a></div>
 					</div>
 					<div class="col-xs-8 col-md-7 text-right menu-1">
 						<ul>
 							<li><a href="index.php">Home</a></li>
-							<li><a href="students.php">Students</a></li>
 							<li class="active"><a href="gallery.php">Gallery</a></li>
                             <li><a href="blog.php">News and Events</a></li>
                             <li><a href="about.php">About Us</a></li>
@@ -259,11 +258,11 @@
 				<div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
 					<h3>Quick Links</h3>
 					<ul class="fh5co-footer-links">
-						<li><a href="#">Students</a></li>
-						<li><a href="#">Staff</a></li>
-						<li><a href="#">Gallery</a></li>
-						<li><a href="#">News and Event</a></li>
-						<li><a href="#">Contact</a></li>
+                        <li><a href="index.php">Home</a></li>
+						<li class="active"><a href="gallery.php">Gallery</a></li>
+						<li><a href="blog.php">News and Events</a></li>
+						<li><a href="about.php">About Us</a></li>
+						<li><a href="contact.php">Contact</a></li>
 					</ul>
 				</div>
 

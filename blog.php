@@ -93,13 +93,12 @@
 		<div class="top-menu">
 			<div class="container">
 				<div class="row">
-				<div class="col-xs-10 col-md-5">
-						<div id="fh5co-logo"><a href="index.html"><img src="images/csj-logo.jpeg" width="50" height="50">St. Joseph's College Vom<span></span></a></div>
+					<div class="col-xs-10 col-md-5">
+						<div id="fh5co-logo"><a href="index.php"><img src="images/csj-logo.jpeg" width="50" height="50">CSJ VOM<span></span></a></div>
 					</div>
 					<div class="col-xs-8 col-md-7 text-right menu-1">
 						<ul>
 							<li><a href="index.php">Home</a></li>
-							<li><a href="students.php">Students</a></li>
 							<li><a href="gallery.php">Gallery</a></li>
                             <li class="active"><a href="blog.php">News and Events</a></li>
                             <li><a href="about.php">About Us</a></li>
@@ -136,31 +135,40 @@
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>Blog &amp; Events</h2>
-					<p>Dignissimos asperiores vitae velit veniam totam fuga molestias accusamus alias autem provident. Odit ab aliquam dolor eius.</p>
+					<p>We bring you the latest news, events and activities taking place in our school.</p>
 				</div>
 			</div>
 			<div class="row row-padded-mb">
 				<div class="col-md-4 animate-box">
 					<div class="fh5co-event">
-						<div class="date text-center"><span>15<br>Mar.</span></div>
-						<h3><a href="#">USA, International Triathlon Event</a></h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+						<div class="date text-center"><span>29<br>Sept.</span></div>
+						<h3><a href="#">Old Boys Thanksgiving</a></h3>
+						<p>
+							Our old boys came over for Thankgiving. The VOBA came over for mass and multiple activities.
+							The VOBA came over for mass and multiple activities.
+						</p>
 						<p><a href="#">Read More</a></p>
 					</div>
 				</div>
 				<div class="col-md-4 animate-box">
 					<div class="fh5co-event">
-						<div class="date text-center"><span>15<br>Mar.</span></div>
-						<h3><a href="#">USA, International Triathlon Event</a></h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+						<div class="date text-center"><span>27<br>Sept.</span></div>
+						<h3><a href="#">Student's Training</a></h3>
+						<p>
+							We had some Professionals give train our senior students in different Career lines.
+							We had some Professionals give train our senior students in different Career lines.
+						</p>
 						<p><a href="#">Read More</a></p>
 					</div>
 				</div>
 				<div class="col-md-4 animate-box">
 					<div class="fh5co-event">
-						<div class="date text-center"><span>15<br>Mar.</span></div>
+						<div class="date text-center"><span>15<br>Sept.</span></div>
 						<h3><a href="#">New Device Develope by Microsoft</a></h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+						<p>
+							We had our sister school over for a programme, St Louis College Jos.
+							We had our sister school over for a programme, St Louis College Jos.
+						</p>
 						<p><a href="#">Read More</a></p>
 					</div>
 				</div>
@@ -168,34 +176,43 @@
 			<div class="row">
 				<div class="col-lg-4 col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-img-holder" style="background-image: url(images/project-1.jpg);"></a>
+						<a href="#" class="blog-img-holder" style="background-image: url(images/csj-voba.jpg);"></a>
 						<div class="blog-text">
-							<h3><a href="#">Healty Lifestyle &amp; Living</a></h3>
-							<span class="posted_on">March. 15th</span>
+							<h3><a href="#">Old Boys Thanksgiving</a></h3>
+							<span class="posted_on">March. 29th</span>
 							<span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<p>
+								Our old boys came over for Thankgiving. The VOBA came over for mass and multiple activities.
+								The VOBA came over for mass and multiple activities.
+							</p>
 						</div> 
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-img-holder" style="background-image: url(images/project-2.jpg);"></a>
+						<a href="#" class="blog-img-holder" style="background-image: url(images/csj-training.jpg);"></a>
 						<div class="blog-text">
-							<h3><a href="#">Healty Lifestyle &amp; Living</a></h3>
-							<span class="posted_on">March. 15th</span>
-							<span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<h3><a href="#">Training</a></h3>
+							<span class="posted_on">March. 28th</span>
+							<span class="comment"><a href="">19<i class="icon-speech-bubble"></i></a></span>
+							<p>
+								We had some Professionals give train our senior students in different Career lines.
+								We had some Professionals give train our senior students in different Career lines.
+							</p>
 						</div> 
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a href="#" class="blog-img-holder" style="background-image: url(images/project-3.jpg);"></a>
+						<a href="#" class="blog-img-holder" style="background-image: url(images/csj-girls.jpg);"></a>
 						<div class="blog-text">
-							<h3><a href="#">Healty Lifestyle &amp; Living</a></h3>
+							<h3><a href="#">Mixed Programme</a></h3>
 							<span class="posted_on">March. 15th</span>
-							<span class="comment"><a href="">21<i class="icon-speech-bubble"></i></a></span>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							<span class="comment"><a href="">11<i class="icon-speech-bubble"></i></a></span>
+							<p>
+								We had our sister school over for a programme, St Louis College Jos.
+								We had our sister school over for a programme, St Louis College Jos.
+							</p>
 						</div> 
 					</div>
 				</div>
@@ -227,11 +244,11 @@
 				<div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
 					<h3>Quick Links</h3>
 					<ul class="fh5co-footer-links">
-						<li><a href="#">Students</a></li>
-						<li><a href="#">Staff</a></li>
-						<li><a href="#">Gallery</a></li>
-						<li><a href="#">News and Event</a></li>
-						<li><a href="#">Contact</a></li>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="gallery.php">Gallery</a></li>
+						<li class="active"><a href="blog.php">News and Events</a></li>
+						<li><a href="about.php">About Us</a></li>
+						<li><a href="contact.php">Contact</a></li>
 					</ul>
 				</div>
 
