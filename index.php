@@ -82,7 +82,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-10 col-md-5">
-						<div id="fh5co-logo"><a href="index.php"><img src="images/csj-logo.jpeg" width="50" height="50">St. Joseph's College Vom<span></span></a></div>
+						<div id="fh5co-logo"><a href="index.php"><img src="images/csj-logo.jpeg" width="50" height="50">CSJ Vom<span></span></a></div>
 					</div>
 					<div class="col-xs-8 col-md-7 text-right menu-1">
 						<ul>
